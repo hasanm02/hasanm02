@@ -19,7 +19,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanmodest/)](https://www.linkedin.com/in/hasanmodest/)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hasanmodest0@gmail.com)](mailto:hasanmodest0@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hasanmodest0@gmail.com)](mailto:hasanmodest0@gmail.com) 
 
 
 
