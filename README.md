@@ -22,7 +22,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/hasanmodest
+[linkedin]:(www.linkedin.com/in/hasanmodest)
 
 
 
