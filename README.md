@@ -22,7 +22,6 @@
 
 
 
-[linkedin]:(https://www.linkedin.com/in/hasanmodest/)
-
+[linkedin]:https://www.linkedin.com/in/hasanmodest/
 
 
