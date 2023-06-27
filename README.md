@@ -11,6 +11,8 @@
  <h2>📄 Certifications </h2>
   
   - [Google Cybersecurity Professional](https://coursera.org/share/e38501cefa2bc64b5cab0457bd59273e)
+  - [CompTIA Security+](https://www.credly.com/badges/e57c92be-c554-4474-b634-6bb9f09a548a/public_url)
+    
 
 
 
