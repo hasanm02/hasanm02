@@ -1,18 +1,25 @@
-<h4>Welcome to my GitHub portfolio! I'm Hasan, and I'm excited to share my projects, contributions, and skills in Cybersecurity. This collection represents my dedication to technology, problem-solving, and lifelong learning. Let's dive in and explore my work together! 
+<h4>Thanks for visiting my GitHub portfolio! I'm a senior studying computer engineering with interests in machine learning and cybersecurity. This repository serves as a showcase of my work that demonstrates my commitment to these fields. I appreciate you for taking the time to explore my portfolio and I hope it inspires and informs you.
+ 
 
-<h2>💻 Cybersecurity Projects</h2>
+<h2>🛡️ Cybersecurity </h2>
 
 - <b>[File Permission in Linux](https://github.com/hasanm02/FilePermissionsLab)</b>
 - <b>[Filtering SQL Queries](https://github.com/hasanm02/FilterSQLQuery)</b>
 - <b>[File Update Algorithm using Python](https://github.com/hasanm02/FileUpdateAlgorithm)</b>
 
-  
+<h2>🤖🧠 Machine Learning </h2>
+
+- <b> TBA </b>
+
+<h2>👨🏽‍💻 Programming </h2>
+
+- <b> TBA </b>
   
  <h2>📄 Certifications </h2>
   
   - [Google Cybersecurity Professional](https://coursera.org/share/e38501cefa2bc64b5cab0457bd59273e)
   - [CompTIA Security+](https://www.credly.com/badges/e57c92be-c554-4474-b634-6bb9f09a548a/public_url)
-    
+  - AWS Solutions Architect Associate (In Progress)
 
 
 
