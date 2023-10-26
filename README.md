@@ -13,7 +13,9 @@
 
 <h2>👨🏽‍💻 Programming </h2>
 
-- <b> TBA </b>
+- <b>[Battleship](https://github.com/hasanm02/Battleship)</b>
+- <b>[Class Management](https://github.com/hasanm02/ClassManagement)</b>
+- <b>[Linked List](https://github.com/hasanm02/LinkedList)</b>
   
  <h2>📄 Certifications </h2>
   
