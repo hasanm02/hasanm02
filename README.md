@@ -9,7 +9,7 @@
 
 <h2>🤖🧠 Machine Learning </h2>
 
-- <b> TBA </b>
+- <b> [Neural Network Based Phishing Detection Model](https://github.com/hasanm02/Phising-Detection-Using-Multilayer-Perceptrons) </b>
 
 <h2>👨🏽‍💻 Programming </h2>
 
