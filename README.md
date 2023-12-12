@@ -11,6 +11,11 @@
 
 - <b> [Neural Network Based Phishing Detection Model](https://github.com/hasanm02/Phising-Detection-Using-Multilayer-Perceptrons) </b>
 
+<h2> Firmware </h2>
+
+- <b>[Bitcoin Monitor](https://github.com/hasanm02/ESP32-Bitcoin-Ticker)</b>
+
+
 <h2>👨🏽‍💻 Programming </h2>
 
 - <b>[Battleship](https://github.com/hasanm02/Battleship)</b>
